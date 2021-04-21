@@ -7,11 +7,11 @@ The Thieves RPG Application is a basic Object Oriented Python application which 
 The inital work was completed by following along the with the Treehouse tutorial.
 
 ## Next Steps
-:white_check_mark: Format Code
+:black_square_button: Format Code
 
-:white_check_mark: Update README
+:black_square_button: Update README
 
-:white_check_mark: Update Repository
+:black_square_button: Update Repository
 
 ## Notes
 - **Language:** Python
