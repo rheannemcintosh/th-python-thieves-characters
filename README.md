@@ -9,9 +9,9 @@ The inital work was completed by following along the with the Treehouse tutorial
 ## Next Steps
 :black_square_button: Format Code
 
-:black_square_button: Update README
+:white_check_mark: Update README
 
-:black_square_button: Update Repository
+:white_check_mark: Update Repository
 
 ## Notes
 - **Language:** Python
